@@ -1,3 +1,5 @@
+# paquete tonto para probar la creacion en R usando devtools.
+#
 # norma euclidea de un vector
 euclideo <- function (v) {
   sqrt (sum (v * v))
