@@ -1,6 +1,7 @@
 # paquete tonto para probar la creacion en R usando devtools.
 #
 # norma euclidea de un vector
+library (plyr)
 euclideo <- function (v) {
   sqrt (sum (v * v))
 }
